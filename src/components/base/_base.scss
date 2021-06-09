@@ -1,0 +1,23 @@
+@import "fonts";
+@import "colors";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat';
+  color: $text;
+  margin: 0;
+}
+
+.text_green{
+  color: $green;
+}
+
+
+
+
+
+
+
